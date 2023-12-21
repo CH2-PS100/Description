@@ -30,3 +30,27 @@ Our goal is to equip parents with the necessary tools to identify and address th
 ### 1.
 ### 2. 
 ### 3. 
+
+
+## Notes 
+
+### Machine Learning
+*
+*
+*
+*
+
+
+### Cloud Computing
+*
+*
+*
+*
+
+### Mobile Development
+*
+*
+*
+*
+
+
