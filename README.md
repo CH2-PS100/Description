@@ -21,15 +21,20 @@ Our goal is to equip parents with the necessary tools to identify and address th
 
 ## Feature 
 ### 1. Dyslexia Image Scanner
+This feature asks the user to scan handwriting to detect whether the person has Dyslexia. The system will output what percentage of users have Dyslexia and also a diagnosis.
 
 ### 2. Article
+The article feature contains various information which is expected to help and expand user awareness regarding Dyslexia diseases
 
-### 3. 
+### 3. History Detection 
+This feature functions to display the user's scan history and diagnosis
 
 ## Next Feature Release
-### 1.
-### 2. 
-### 3. 
+### 1. Added other disease detection features
+Our group plans to add other disease detection to our application such as stunting and others by using input according to needs
+### 2. chat feature with doctors.
+Our group plans to make the dyslexia scanner app even more helpful to users by adding a chat feature for various diseases detected by our app over time.
+### 3. improve accuracy and diagnosis
 
 
 ## Notes 
