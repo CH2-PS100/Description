@@ -59,8 +59,8 @@ Our group plans to make the dyslexia scanner app even more helpful to users by a
 ### Mobile Development
 * Creating UI design
 * Configure android environment
-* Developing the application using cotlin
+* Developing the application using Kotlin
 * Create database for article using realtime database from firebase
-* API implementation from CC in ScanActivity to post image and get results from the server
+* API implementation from Cloud Computing in ScanActivity to post image and get results from the server
 
 
