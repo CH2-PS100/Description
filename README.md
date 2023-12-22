@@ -40,22 +40,27 @@ Our group plans to make the dyslexia scanner app even more helpful to users by a
 ## Notes 
 
 ### Machine Learning
-*
-*
-*
-*
+* Find the suitable dataset. 
+* Develop and train a dyslexia detection model using TensorFlow.
+* Implement TensorFlow Lite for model deployment on resource-constrained environments.
+* Explore and integrate TensorFlow.js for model deployment.
+* Design and implement a data pipeline for efficient model serving.
+* Preprocess the dataset, including missing values imputation for enhanced model performance.
+* Evaluate and fine-tune the model's hyperparameters for optimal performance.
 
 
 ### Cloud Computing
-*
-*
-*
-*
+* Developing an API to predict Dyslexia
+* Creating a service using Firebase
+* Create a Database to store prediction results
+* Create a DockerFile and  Build Docker Image
+* Deploy using Cloud Run
 
 ### Mobile Development
-*
-*
-*
-*
+* Creating UI design
+* Configure android environment
+* Developing the application using cotlin
+* Create database for article using realtime database from firebase
+* API implementation from CC in ScanActivity to post image and get results from the server
 
 
